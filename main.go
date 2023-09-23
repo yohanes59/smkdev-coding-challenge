@@ -29,8 +29,6 @@ func calculateSeriesSum(n int) int {
 		term = term*10 + 2
 		sum += term
 	}
-	fmt.Print(term)
-
 	return sum
 }
 
