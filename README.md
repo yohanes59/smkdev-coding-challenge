@@ -5,7 +5,12 @@ This branch contains programs for submit coding challenges #10829 Advance Challe
 
 ## Clone the project
 ```
-git clone https://github.com/yohanes59/smkdev-coding-challenge/tree/advance%2310829
+git clone https://github.com/yohanes59/smkdev-coding-challenge.git
+```
+
+then move to branch with command
+```
+git checkout advance#10829
 ```
 
 ## How to use
